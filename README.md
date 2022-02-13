@@ -38,7 +38,5 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/cristiam-loaiza-959515b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/crixtiam/crixtiam/blob/output/github-contribution-grid-snake.svg)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+  </div>
  
