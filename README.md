@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Javascript
 -->
 
-## Hallo, Im Cristiam Loaiza
+## Hallo, I'm Cristiam Loaiza
 <div align="center">
   <a href="https://github.com/crixtiam">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crixtiam&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
