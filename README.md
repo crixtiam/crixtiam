@@ -40,5 +40,4 @@ Here are some ideas to get you started:
  <a href="https://medium.com/@crixtiamloaiza" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
  <a href="https://open.spotify.com/user/wxofnhbhh2p6i5nyn5qk1631q" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
    
-  ![Snake animation](https://github.com/crixtiam/crixtiam/blob/output/github-contribution-grid-snake.svg)
 </div>
